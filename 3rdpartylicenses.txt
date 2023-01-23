@@ -37,7 +37,7 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 libphonenumber-js-mobile
 
-ngx-international-number
+ngx-intl-phone-number
 MIT
 
 rxjs
